@@ -1,4 +1,4 @@
-(defproject clj-cas-login "0.1.0-SNAPSHOT"
+(defproject org.iplantc/clj-cas-login "0.1.0-SNAPSHOT"
   :description "Used to obtain service tickets from CAS."
   :url "https://github.com/iPlantCollaborativeOpenSource/clj-cas-login"
   :license {:name "BSD"
